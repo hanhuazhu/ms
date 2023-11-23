@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "question": "What is the largest internal organ in the human body?",
+      "answers": ["Lungs", "Heart", "Kidneys", "Liver"],
+      "subject": "Science",
+      "correct": 4
+    },
+    {
+      "question": "What is the percentage of the Earth covered by water?",
+      "answer": ["51%", "61%", "71%", "81%"],
+      "subject": "Geography",
+      "correct": 3
+    },
+    {
+      "question": "What was the name of Drake’s 2023 album?",
+      "answer": ["Take Care", "Scorpion", "For All the Dogs", "Views"],
+      "subject": "Entertainment",
+      "correct": 3
+    },
+    {
+      "question": "Which of the following British presenters never presented ‘Strictly Comes Dancing’?",
+      "answer": ["Caludia Winkleman", "Tess Daly", "Andrea Hamilton", "Stacey Dooley"],
+      "subject": "Entertainment",
+      "correct": 4
+    },
+    {
+      "question": "When was the Cuban Missile Crisis?",
+      "answer": ["1962", "1972", "1982", "1992"],
+      "subject": "History",
+      "correct": 1
+    },
+    {
+      "question": "What is the aotmic number of Hydrogen?",
+      "answer": ["1", "2", "3", "4"],
+      "subject": "Science",
+      "correct": 1
+    }
+  ]
+}
