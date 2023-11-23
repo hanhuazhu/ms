@@ -1,7 +1,7 @@
 # Introduction
 Questions Microservice is a program made for the purposes of CS361 in order to serve questions from a local database.
 
-**Users can quickly get started by reading the section under Basics**. Further information on features, while are not necessary, can be found under More Info.
+**Users can quickly get started by running "node index.js" in the project directory. Node.js must be installed on the user's system. Furthermore, please read the section under Basics**. Further information on features, while are not necessary, can be found under More Info.
 
 # Basics
 
